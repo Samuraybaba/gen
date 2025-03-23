@@ -25,9 +25,9 @@ module.exports = {
         );
       return message.channel.send(embed);
     }
-    if (message.channel.id !== "1131134102590984334")
+    if (message.channel.id !== "1353390243847344209")
       return message.channel.send(
-        "This isn't the gen channel, gen at <#1131134102590984334>"
+        "This isn't the gen channel, gen at <#1353390243847344209>"
       );
     if (args[0] == null) {
       return message.channel.send(
