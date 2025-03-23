@@ -19,7 +19,7 @@ module.exports = {
         .setColor("#0091ff")
         .setTimestamp()
         .setDescription("**DM'i Kontrol Et!**")
-        .setFooter(`Master Gen`)
+        .setFooter(`Craze Gen`)
         .setThumbnail(
           "https://i.imgur.com/b5MVGYq.png"
         );
