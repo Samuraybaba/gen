@@ -100,7 +100,7 @@ module.exports = {
        .addField("Netflix", netflixStock + " hesap", true)
        .addField("GeoGuesser", geoguessrStock + " hesap", true)
 
-       .setFooter("Master Gen<3", message.guild.iconURL)
+       .setFooter("Craze Gen<3", message.guild.iconURL)
        .setTimestamp()
        .setColor("RANDOM")
        message.channel.send(embed);
